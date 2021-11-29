@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FormularioAutocompleteTextView</string>
+
+    <string-array name="nombres">
+        <item>David</item>
+        <item>Diego</item>
+        <item>Daniel</item>
+        <item>Dionisio</item>
+
+
+    </string-array>
+</resources>
